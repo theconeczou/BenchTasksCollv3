@@ -1,7 +1,7 @@
 # Evaluation script for help-desk
 
 def run_evaluation():
-    # TODO: Implement evaluation logic
+    # TODO: Implement actual evaluation logic
     return True
 
 if __name__ == '__main__':
